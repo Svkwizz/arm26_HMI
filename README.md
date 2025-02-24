@@ -6,3 +6,4 @@ Muscle Activation and Control: Uses a physics-based control system.
 Assistive Torque Simulation: Simulates exosuit assistance for movement.
 Metabolic Cost Estimation: Evaluates energy expenditure with and without assistance.
 Inverse and Forward Dynamics: Implements real-world physics for arm movement.
+![image](https://github.com/user-attachments/assets/9182706c-dbd4-4874-89a4-c5e103865d36)
