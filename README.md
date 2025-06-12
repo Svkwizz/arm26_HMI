@@ -6,6 +6,7 @@ Muscle Activation and Control: Uses a physics-based control system.
 Assistive Torque Simulation: Simulates exosuit assistance for movement.
 Metabolic Cost Estimation: Evaluates energy expenditure with and without assistance.
 Inverse and Forward Dynamics: Implements real-world physics for arm movement.
+
 **amr26_utilities comtain the different modules that are being used in main_arm26_withBCI code.**
 
 **BiCurNet_anant_240_1600 contain utilitites for bicurnet Model**
